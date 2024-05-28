@@ -1,0 +1,2 @@
+1. Za RISC-V arhitekturu, RV64I skup instrukcija koristi 32-bitne osnovne instrukcije. Ovo znači da su osnovne instrukcije u RV64I formatu dužine 32 bita.
+6. Registarske (R) instrukcije u RISC-V arhitekturi imaju dva operanda.
